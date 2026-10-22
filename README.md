@@ -31,8 +31,6 @@ I'm a developer and tech enthusiast who bridges the gap between **logical progra
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmarafea217@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ato_a8?s=11)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ato.a8?vrfl=cDN1ODhrc2c4aWFz&utm_source=qr)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/t/TlJ8HRP0)
 
 ---
 
