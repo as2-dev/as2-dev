@@ -33,8 +33,6 @@
 
 <p align="left">
   <a href="https://x.com/ato_a8?s=11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ato.a8?vrfl=cDN1ODhrc2c4aWFz&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://snapchat.com/t/TlJ8HRP0"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
 </p>
 
 ---
