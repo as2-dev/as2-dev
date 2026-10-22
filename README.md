@@ -1,21 +1,23 @@
-# 🌟 Welcome to My Space!
-
-I'm a developer and tech enthusiast who bridges the gap between **logical programming** and **artistic digital design**. I love transforming ideas into organized, real-world projects with exceptional user experiences.
+<h1 align="center">Hi 👋, I'm aso</h1>
+<p align="center">
+  <b>Developer & Digital Designer</b><br>
+  <i>Bridging Logic with Art • Building Great Experiences</i>
+</p>
 
 ---
 
-### 🎨 Areas of Interest & Passion
+### 📝 About Me
 
-* 💻 **Software Development:** Writing clean code, managing projects using Git & GitHub, and building practical software solutions.
-* 📐 **Design & Visual Identity:** UI design, branding, and creative graphic concepts.
-* 🎬 **Content Creation & Video Editing:** Crafting videos and delivering visually engaging content.
-* 📦 **Digital Business Operations:** E-commerce setup and optimizing technical workflows.
+* 💻 **Software & Web Development:** Focused on clean code and managing projects using Git & GitHub.
+* 🎨 **Design & Visual Branding:** UI/UX design, branding, and creative concepts.
+* 🎬 **Content & Video Editing:** Crafting videos using CapCut & VN Editor.
+* 📬 **Reach me:** asmarafea217@gmail.com
 
 ---
 
 ### 🛠️ Skills & Tools
 
-**Development & Version Control:**
+**Development:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,19 +29,14 @@ I'm a developer and tech enthusiast who bridges the gap between **logical progra
 
 ---
 
-### 📬 Connect with Me
+### 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmarafea217@gmail.com)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ato_a8?s=11)
-
----
-
-### 🚀 Current Goals & Focus
-
-* 📖 Deepening my knowledge in version control and workflow management via Git & GitHub.
-* 💡 Exploring new projects that combine programming with UI design.
-* 🎯 Building a solid developer & creative portfolio to showcase upcoming work.
+<p align="left">
+  <a href="https://x.com/ato_a8?s=11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ato.a8?vrfl=cDN1ODhrc2c4aWFz&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://snapchat.com/t/TlJ8HRP0"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
+</p>
 
 ---
 
- *"Creativity is intelligence having fun."*
+![Snake animation](https://github.com/as2-dev/as2-dev/blob/output/github-contribution-grid-snake.svg)
