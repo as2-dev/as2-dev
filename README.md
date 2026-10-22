@@ -38,3 +38,7 @@
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/as2-dev/as2-dev/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/as2-dev/as2-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
